@@ -1,0 +1,6 @@
+M. Abu Bakar - Personal Portfolio Website
+
+1. Open this folder in VS Code.
+2. Open index.html with Live Server.
+3. Your profile photo is already included at images/profile.jpg.
+4. To replace the photo later, keep the new image named profile.jpg inside the images folder.
